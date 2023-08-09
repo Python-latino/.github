@@ -36,6 +36,21 @@ Si deseas contribuir a Python Latino y ser parte de esta comunidad en crecimient
 
 No importa si eres principiante o un experto en Python, tu contribución es valiosa para ayudar a otros a aprender y crecer.
 
+## Tecnologías
+
+A lo largo de tu viaje de aprendizaje en Python Latino, explorarás y trabajarás con tecnologías de vanguardia. Aquí están algunas de las herramientas que abordaremos:
+
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-lightgrey?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-orange?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=black)](https://fastapi.tiangolo.com/)
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=black)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)](https://kubernetes.io/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)](https://www.postgresql.org/)
+
+
+
 ## Comunidad y Contacto
 
 Únete a nuestra comunidad en [nuestro sitio web](https://www.pythonlatino.com) y en nuestras redes sociales. Estamos emocionados por tenerte con nosotros en este emocionante viaje de aprendizaje y crecimiento.
